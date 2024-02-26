@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">quizApp</string>
+    <string name="question_txt">¿Kotlin es el lenguaje  nativo de programación de Google?</string>
+    <string name="btrue">VERDADERO</string>
+    <string name="bfalse">FALSO</string>
+    <color name="blue">#42B0D3</color>
+    <color name="yellow">#FFC300</color>
+</resources>
